@@ -1,2 +1,2 @@
 # depremsiteProject
-Türkiye deki depremleri anlık depremleri gösteren basit bir web uygulaması
+Türkiye deki anlık depremleri gösteren basit bir web uygulaması
